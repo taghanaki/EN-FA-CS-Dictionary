@@ -2690,6 +2690,7 @@ strictly decreasing |  | اكیداً نزولی |  | الگوریتم و ساخ
 strictly increasing |  | اكیداً صعودی |  | الگوریتم و ساختمان‌داده
 strictly lower triangular matrix |  | ماتریس اكیداً پایین مثلثی |  | الگوریتم و ساختمان‌داده
 strictly upper triangular matrix |  | ماتریس اكیداً بالا مثلثی |  | الگوریتم و ساختمان‌داده
+stride |  | گام | قدم | هوش مصنوعی
 strident |  | تیز | گوش‌خراش | هوش مصنوعی
 string |  | رشته |  | هوش مصنوعی \| الگوریتم و ساختمان‌داده
 strong equivalence |  | هم‌ارزی قوی |  | هوش مصنوعی
@@ -3134,6 +3135,7 @@ zero-shot learning |  | یادگیری تک مرحله‌ای |  | هوش مصن
 Zero-Width Non-Joiner (ZWNJ) |  | نیم‌فاصله | فاصله مجازی | هوش مصنوعی
 Zipf 's law |  | قانون زیف |  | هوش مصنوعی
 zoom  |  | بزرگنمایی   |  | پردازش سیگنال
+
 
 <h2 align="right">مشارکت</h2>
 <p dir='rtl'>
